@@ -1,0 +1,14 @@
+<!-- popup.component.html -->
+<div class="popup-overlay" (click)="exitPopUp()">
+    <div class="popup">
+      <div class="popup-header">
+        <h2>Popup</h2>
+        <button class="close-button" (click)="exitPopUp()">×</button>
+      </div>
+      <div class="popup-body">
+        <!-- Add your popup content here -->
+        <p>{{msg}}</p>
+      </div>
+    </div>
+  </div>
+  

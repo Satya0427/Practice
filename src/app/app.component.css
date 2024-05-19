@@ -1,0 +1,13 @@
+.alignment{
+    align-items: center;
+    margin-left:40%;
+    margin-top: 9%;
+}
+/* app.component.css */
+.main {
+    padding-bottom: 60px; /* Adjust as needed based on footer height */
+    position: fixed;
+    width:100%;
+    margin-bottom:30px;
+  }
+  

@@ -1,0 +1,12 @@
+input.ng-invalid.ng-touched {
+  border: red 1px solid;
+}
+
+.popup{
+  height:200px;
+  width:150px;
+  position: absolute;
+  
+}
+
+
